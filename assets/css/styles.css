@@ -1,6 +1,19 @@
-.carousel-inner{
+body {
+    background-color: black !important;
+    color: white !important;
 
-    height: 100vh;
+
+
+}
+
+
+
+p, h1, h2 {
+   
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    
 }
 
 .navbar{
@@ -9,7 +22,4 @@
     background-color: #4B9AA6 ;
 }
 
-body {
-    background-color: black !important;
-    color: white !important;
-}
+
