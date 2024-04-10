@@ -14,4 +14,13 @@ p, h1, h2 {
     background-color: #4B9AA6 ;
 }
 
+.card-body p{
 
+    background-color: #4B9AA6;
+    color: #fff;
+}
+
+.card-body{
+
+    background-color: #4B9AA6;
+}
