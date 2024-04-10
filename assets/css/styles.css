@@ -10,8 +10,17 @@ p, h1, h2 {
     
 }
 
+i{
+    color: #fff;
+}
+
 .navbar{
     background-color: #4B9AA6 ;
+
+}
+
+.feature-icon{
+    background-color: #4B9AA6;
 }
 
 .card-body p{
@@ -21,6 +30,11 @@ p, h1, h2 {
 }
 
 .card-body{
+
+    background-color: #4B9AA6;
+}
+
+footer{
 
     background-color: #4B9AA6;
 }
