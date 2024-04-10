@@ -22,3 +22,11 @@ $(document).ready(function(){
       } // End if
     });
   });
+
+
+  const tooltips = document.querySelectorAll('.tt')
+        tooltips.forEach(t => {
+        
+            new bootstrap.Tooltip(t)
+            
+        })
