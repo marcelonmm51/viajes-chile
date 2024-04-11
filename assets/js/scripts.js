@@ -1,3 +1,6 @@
+
+/*Script para smooth scrolling*/
+
 $(document).ready(function(){
     // Add smooth scrolling to all links
     $("a").on('click', function(event) {
@@ -23,7 +26,7 @@ $(document).ready(function(){
     });
   });
 
-
+/*Script para tooltip*/
   const tooltips = document.querySelectorAll('.tt')
         tooltips.forEach(t => {
         
